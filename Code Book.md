@@ -1,5 +1,5 @@
 <h1>Code Book</h1>
-The <i>run_analysis.R</i> script performs the data preparation and then followed by the 5 steps required as described in the course project’s definition.
+The <i>run_analysis.R</i> script performs the data preparation and then followed by the 5 steps required as described in the course project’s definition. Mkaing it 7 steps in total.
 
 <b>1. to download the dataset</b> 
       
